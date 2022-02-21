@@ -1,3 +1,4 @@
+![Banner](https://media.discordapp.net/attachments/801501873516445727/945301234141757460/Screenshot_2020-11-28-19-29-01-1.png)
 ### Wilcker está te dando Oi! 👋
 
 <div align="center">
