@@ -2,7 +2,37 @@
 
   ##
 
-### Wilcker está te dando Oi! 👋
+# Wilcker está te dando Oi! 👋
+
+<!--START_SECTION:mydata-->
+
+```json
+{
+   "Wilcker": {
+      "FocoAtual": "Terminar o ensino médio.",
+      "ComoMeVejoEm5anos": "Um desenvolvedor fullstack.",
+      "Favorites": 
+         "Tema": "Abyss",
+         "IDE": "VSCODE (Sim, eu sei que é mais um editor do que realmente uma IDE)",
+         "Language": "Javascript",
+         "Mobile": "Android",
+         "Games": ["Pokemon", "Truco", "Yugioh", "Sonic", "Undertale", "..."],
+         "Musicas": {
+            "Generos": ["Pop", "Eletronica", "Trap", "Rap", "Rock", "Lo-fi", "Indie", "..."],
+            "Nomes": ["Hills - The weekend", "Take what you want - Post Malone feat. Ozzy Osbourne, Travis Scoot", "Quer voar - Matuê", "Freal Luv - Far East Movement", "..."],
+            "Famosos": ["Will.I.Am", "Keanu Reeves", "Terry Crews", "Elon Musk"]
+         }
+      }
+   },
+   "InformacoesAleatorias": {
+      "FatoTubaronico": "Tubarões não costumam tirar notas boas em provas, pois não frequentam centros de ensino.",
+      "FatoInteressante": "Achance de você morrer no caminho até a loteria é maior do que a chance de ganhar.",
+      "CuriosidadeMinha": "Não gosto de bananas."
+   }
+}
+```
+
+<!--END_SECTION:mydata-->
 
 <div align="center">
   <a href="https://github.com/wilckerk">
