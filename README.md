@@ -25,8 +25,8 @@
       },
    "InformacoesAleatorias": {
       "FatoTubaronico": "Tubarões não costumam tirar notas boas em provas, pois não frequentam centros de ensino.",
-      "FatoInteressante": "Achance de você morrer no caminho até a loteria é maior do que a chance de ganhar.",
-      "CuriosidadeMinha": "Já zerei todos os jogos da 3° à 5° gen de pokemon."
+      "FatoInteressante": "A chance de você morrer no caminho até a loteria é maior do que a chance de ganhar.",
+      "CuriosidadeMinha": "Odeio bananas."
    }
 }
 ```
