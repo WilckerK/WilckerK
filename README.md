@@ -9,7 +9,7 @@
 ```json
 {
    "Wilcker": {
-      "FocoAtual": "lOADING...",
+      "FocoAtual": "LOADING...",
       "ComoMeVejoEm5anos": "Um desenvolvedor fullstack.",
       "Favorites": 
          "Tema": "Abyss",
