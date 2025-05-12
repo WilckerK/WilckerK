@@ -19,8 +19,7 @@
          "Games": ["Pokemon", "Truco", "Yugioh", "Sonic", "Undertale", "..."],
          "Musicas": {
             "Generos": ["Pop", "Eletronica", "Trap", "Rap", "Rock", "Lo-fi", "Indie", "..."],
-            "Nomes": ["Hills - The weekend", "Take what you want - Post Malone feat. Ozzy Osbourne, Travis Scoot", "Quer voar - Matuê", "Freal Luv - Far East Movement", "..."],
-            "Famosos": ["Will.I.Am", "Keanu Reeves", "Terry Crews", "Elon Musk"]
+            "Nomes": ["Hills - The weekend", "Take what you want - Post Malone feat. Ozzy Osbourne, Travis Scoot", "Quer voar - Matuê", "Freal Luv - Far East Movement", "..."]
          }
       },
    "InformacoesAleatorias": {
